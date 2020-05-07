@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, University of Virginia, 2016
+* M.S. in Computer Engineering, University of Virginia, 2018
+* Ph.D in Robotics, Georgia Institute of Technology, 2024 (expected)
 
 Work experience
 ======
