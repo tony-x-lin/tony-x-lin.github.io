@@ -54,7 +54,7 @@ atom_feed:
 author:
   name             : "Tony X. Lin"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student, ECE Department, Georgia Institute of Technology"
+  bio              : "Ph.D. Student\n ECE, Georgia Institute of Technology"
   location         : "Atlanta, GA"
   googlescholar    :
   email            : "tlin339@gatech.edu"
@@ -123,16 +123,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -157,15 +148,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -175,23 +157,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
