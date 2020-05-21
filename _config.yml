@@ -54,7 +54,7 @@ atom_feed:
 author:
   name             : "Tony X. Lin"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student\n ECE, Georgia Institute of Technology"
+  bio              : "Ph.D. Student at the Georgia Institute of Technology"
   location         : "Atlanta, GA"
   googlescholar    :
   email            : "tlin339@gatech.edu"
