@@ -13,8 +13,8 @@ redirect_from:
 * I received a B.S. in Mechanical Engineering and an M.S. in Computer Engineering from the University of Virginia.
 
 # Latest News
-* Paper titled "" accepted to CCTA 2020 (First author)
-* Paper titled "" accepted to ICCA 2020 (First author)
+* Paper titled "Set-Based State Estimation of Mobile Robots from Coarse Range Measurements" accepted to CCTA 2020 (First author)
+* Paper titled "Cooperative Emergent Swarming through Deep Reinforcement Learning" accepted to ICCA 2020 (First author)
 * One paper under review for LCSS 2020 (Second author)
-* Journal article for Journal of Intelligent Systems and Robotics to be published (Second author)
+* Journal article titled "Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations" to be published in Journal of Intelligent Systems and Robotics (Second author)
 * One paper under review for IROS 2020 (First author)
