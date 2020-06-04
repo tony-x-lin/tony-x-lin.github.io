@@ -18,3 +18,8 @@ redirect_from:
 * One paper under review for LCSS 2020 (Second author)
 * Journal article titled "Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations" to be published in Journal of Intelligent Systems and Robotics (Second author)
 * One paper under review for IROS 2020 (First author)
+
+# Service
+* Reviewer: ICCA 2020, IROS 2020, IFAC 2020, ICRA 2020, ACC 2020, ACC 2018, ICRA 2018
+* Conference Volunteer: ACC 2020
+* Website Management: Georgia Tech Decision and Control Laboratory
