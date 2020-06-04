@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<body style="background-color:LightGray;">
 
 # About Me
 * I am a Robotics PhD student in the Electrical and Computer Engineering Department at the Georgia Institute of Technology jointly advised by Dr. Fumin Zhang and Dr. Samuel Coogan
