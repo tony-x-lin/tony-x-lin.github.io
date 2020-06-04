@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<body style="background-color:LightGray;">
+
 # About Me
 * I am a Robotics PhD student in the Electrical and Computer Engineering Department at the Georgia Institute of Technology jointly advised by Dr. Fumin Zhang and Dr. Samuel Coogan
 * My research interests lie within decentralized algorithms for mobile robot teams. In particular, I am interested in how communication-limited techniques can be used to create decentralized estimators and formation controllers. 
