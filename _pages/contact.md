@@ -5,8 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-<p align="center">
-  <img src="https://tony-x-lin.github.io/files/atlanta.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+<p align="left">
+  <img src="https://tony-x-lin.github.io/files/atlanta.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 # Feel free to reach out!
