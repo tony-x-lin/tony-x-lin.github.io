@@ -7,7 +7,7 @@ author_profile: true
 
 I'm currently residing in Atlanta, GA.
 <p align="left">
-  <img src="https://tony-x-lin.github.io/files/atlanta.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://tony-x-lin.github.io/images/atlanta2.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 # Feel free to reach out!
