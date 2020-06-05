@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="left">
-  <img src="https://tony-x-lin.github.io/images/atlanta2.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://tony-x-lin.github.io/images/atlanta2.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
 # Latest News
