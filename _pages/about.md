@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="left">
+  <img src="https://tony-x-lin.github.io/images/atlanta2.png?raw=true" alt="Photo" style="width: 500px;"/> 
+</p>
+
 # Latest News
 * Paper titled "Set-Based State Estimation of Mobile Robots from Coarse Range Measurements" accepted to CCTA 2020 (First author)
 * Paper titled "Cooperative Emergent Swarming through Deep Reinforcement Learning" accepted to ICCA 2020 (First author)
