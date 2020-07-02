@@ -13,11 +13,11 @@ redirect_from:
 </p>
 
 # Latest News
+* Paper titled "A Distributed Scalar Field Mapping Strategy for Mobile Robots" accepted to IROS 2020 (First author)
 * Journal article title "A Derivative-Free Optimization Method with Application to Functions with Exploding and Vanishing Gradients" accepted for LCSS 2020 (Second author)
 * Paper titled "Set-Based State Estimation of Mobile Robots from Coarse Range Measurements" accepted to CCTA 2020 (First author)
 * Paper titled "Cooperative Emergent Swarming through Deep Reinforcement Learning" accepted to ICCA 2020 (First author)
 * Journal article titled "Computation-Aware Adaptive Planning and Scheduling for Safe Unmanned Airborne Operations" to be published in Journal of Intelligent Systems and Robotics (Second author)
-* One paper under review for IROS 2020 (First author)
 
 # About Me
 * I am a Robotics PhD student in the Electrical and Computer Engineering Department at the Georgia Institute of Technology jointly advised by Dr. Fumin Zhang and Dr. Samuel Coogan
@@ -27,4 +27,4 @@ redirect_from:
 # Service
 * Reviewer: ICCA 2020, IROS 2020, IFAC 2020, ICRA 2020, ACC 2020, ACC 2018, ICRA 2018
 * Conference Volunteer: ACC 2020
-* Website Management: Georgia Tech Decision and Control Laboratory
+* Website Management: Georgia Tech Decision and Control Laboratory (DCL)
